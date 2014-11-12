@@ -1,0 +1,24 @@
+{
+  "name": "msync",
+  "version": "1.0.0",
+  "description": "msync",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hden/msync.git"
+  },
+  "author": "Hao-kang Den <haokang.den@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hden/msync/issues"
+  },
+  "homepage": "https://github.com/hden/msync",
+  "dependencies": {
+    "CBuffer": "^0.1.5",
+    "bit-array": "^0.2.2",
+    "node-bitarray": "0.0.2"
+  }
+}
